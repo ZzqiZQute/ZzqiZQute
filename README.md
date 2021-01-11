@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Now, I'm an image cropper. 
+
 <!--
 **ZzqiZQute/ZzqiZQute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
